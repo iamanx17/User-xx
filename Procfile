@@ -1,1 +1,1 @@
-web: gunicorn contact.wsgi --log-file -
+web: gunicorn contact.wsgi
