@@ -82,6 +82,7 @@ DATABASES = {
         'HOST':'ec2-35-168-77-215.compute-1.amazonaws.com',
         'USER':'ajmovkpodbewvq',
         'PASSWORD':'33d36342f5a4f4ffcde5924bac095c149e2a6a624a9b682768036a07f88e691b',
+        'PORT':'5432',
     }
 }
 
