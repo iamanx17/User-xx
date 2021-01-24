@@ -26,7 +26,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'hjy^pmjybxibv5pdlch&1g-$zj!70l%+mt@93x5%c9a8srz)6@'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['herokudjangoapp.herokuapp.com']
 
