@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'contact.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgres',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'd95spmac96ll3k',
         'HOST':'ec2-52-6-143-153.compute-1.amazonaws.com',
         'USER':'ffuftlbcauhale',
