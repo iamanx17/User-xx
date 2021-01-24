@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'contact.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dapj34k4mee876',
-        'HOST':'ec2-35-168-77-215.compute-1.amazonaws.com',
-        'USER':'ajmovkpodbewvq',
-        'PASSWORD':'33d36342f5a4f4ffcde5924bac095c149e2a6a624a9b682768036a07f88e691b',
+        'NAME': 'dcl8pp92bmlklt',
+        'HOST':'ec2-107-23-191-123.compute-1.amazonaws.com',
+        'USER':'pellygijbwkswb',
+        'PASSWORD':'ea570fc10ee69e06a7b1f88107afde33d430e56da9703761aa60986d308d00db',
         'PORT':'5432',
     }
 }
